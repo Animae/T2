@@ -1,4 +1,12 @@
 {
-  "server_address": "http://52.69.94.153",
-  "socket_port": 3000
+	"server_address": "http://52.69.94.153",
+  "socket_port": 3000,
+	"ios": {
+		"version": "1.0.0",
+		"update_link": "www.google.com"
+	},
+	"android": {
+		"version": "1.0.0",
+		"update_link": "www.google.com"
+	}
 }
