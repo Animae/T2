@@ -1,12 +1,14 @@
 {
-	"server_address": "http://52.69.94.153",
+	"server_address": "https://T2T-Release-LBS-790258663.ap-northeast-1.elb.amazonaws.com ",
   "socket_port": 3000,
 	"ios": {
-		"version": "1.0.0",
+		"versions": ["1.0.0"],
+		"deprated_versions": [],
 		"update_link": "www.google.com"
 	},
 	"android": {
-		"version": "1.0.0",
+		"versions": ["1.0.0"],
+		"deprated_versions": [],
 		"update_link": "www.google.com"
 	}
 }
